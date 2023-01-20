@@ -22,15 +22,18 @@ function chew321(array){
       chewedArray.push(element);
     }
   });
-  return chewedArray
+  return chewedArray.join(", ")
 }
 
-
-window.addEventListener("load", function(){
-  const submitButton = document.querySelector("#submitbutton");
-  const numberInput = this.document.querySelector("#inputnumber");
-  window.addEventListener("submit", function(event){
+window.addEventListener("load", function(e){
+  console.log("load");
+  const button = document.querySelector("button");
+  const numberInput = document.querySelector("#inputnumber");
+  const output = document.querySelector("#outputarea");
+  e.preventDefault();
+  button.addEventListener("click", function(event){
+    console.log("submit");
+    output.innerText = feedRobot(numberInput.value);
     event.preventDefault();
-    feedRobot(numberInput.value);
   })
 })

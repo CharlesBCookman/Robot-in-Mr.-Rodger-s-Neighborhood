@@ -10,7 +10,7 @@
 * _Git_
 * _GitHub_
 * _Terminal_
-* _Javascript, CSS, html, and Markdown_
+* _Javascript, CSS, HTML, and Markdown_
 
 ## Description
 

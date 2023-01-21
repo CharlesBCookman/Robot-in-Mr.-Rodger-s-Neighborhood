@@ -7,7 +7,7 @@
 ## Technologies Used
 
 * _Visual Studio Code_
-* _Git_
+* _Git_S
 * _GitHub_
 * _Terminal_
 * _Javascript, CSS, html, and Markdown_
@@ -18,7 +18,7 @@ _This project is for my Epicodus class. The purpose of the project is to take an
 
 ## Setup/Installation Requirements
 
-* _To see site visit: 
+* _To see site visit: https://charlesbcookman.github.io/Robot-in-Mr.-Rodger-s-Neighborhood/
 * _For the GitHub repository site to see the code please visit: https://github.com/CharlesBCookman/Robot-in-Mr.-Rodger-s-Neighborhood_
 * _To clone follow instructions here: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository_
 * _You may open files with what ever code editor you prefer, I used Visual Studio Code. You can download it here: https://code.visualstudio.com/_

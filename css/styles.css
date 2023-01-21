@@ -4,6 +4,9 @@
   justify-content: center;
 }
 
-.column {
+#collect {
+  height: 40vh;
+  display: flex;
   flex-direction: column;
+  margin: auto;
 }
